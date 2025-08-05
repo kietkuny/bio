@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 41 40" fill="none" xml:space="preserve">
+<style>
+.anim1 {animation: animleft 7s ease-in-out forwards infinite;}
+.anim2 {animation: animright 7s ease-in-out forwards infinite;}
+.dlay1 {animation-delay: 0.2s}
+.dlay2 {animation-delay: 0.3s}
+
+@keyframes animleft { 0% { opacity:1; transform: translate(0%, 0%); } 30% { opacity:0.7; transform: translate(-20%, 0%); } 60% { opacity:0.7; transform: translate(-20%, 0%); } 90% { opacity:1; transform: translate(0%, 0%);} }
+
+@keyframes animright { 0% { opacity:1; transform: translate(0%, 0%); } 30% { opacity:0.7; transform: translate(20%, 0%); } 60% { opacity:0.7; transform: translate(20%, 0%); } 90% { opacity:1; transform: translate(0%, 0%);} }
+</style>
+<path d="M38.7384 12.1309H10.123V13.5616H38.7384V12.1309Z" fill="#383B3D" stroke="#383B3D" stroke-width="0.73" stroke-linecap="round" stroke-linejoin="round" class="anim1"/>
+<path d="M38.7384 19.2847H10.123V20.7154H38.7384V19.2847Z" fill="#383B3D" stroke="#383B3D" stroke-width="0.73" stroke-linecap="round" stroke-linejoin="round" class="anim1 dlay1"/>
+<path d="M30.8693 26.4385H2.25391V27.8692H30.8693V26.4385Z" fill="#383B3D" stroke="#383B3D" stroke-width="0.73" stroke-linecap="round" stroke-linejoin="round" class="anim2 dlay2"/>
+</svg>

@@ -1,0 +1,93 @@
+#af-wrapper #forum-profile .display-name,
+#af-wrapper .post-author .topic-author,
+#af-wrapper input[type="checkbox"]:checked:before {
+color: #00cd23 !important;
+}
+#af-wrapper .button-normal,
+#af-wrapper .title-element,
+#af-wrapper #forum-header,
+#af-wrapper #profile-header .background-avatar,
+#af-wrapper #profile-navigation,
+#af-wrapper input[type="radio"]:checked:before {
+background-color: #00cd23 !important;
+}
+#af-wrapper .button-neutral {
+background-color: #00cd23B0 !important;
+}
+#af-wrapper .post-author .topic-author {
+background-color: #00cd2340 !important;
+}
+#af-wrapper input[type="radio"]:focus,
+#af-wrapper input[type="checkbox"]:focus,
+#af-wrapper #profile-header {
+border-color: #00cd23 !important;
+}
+#af-wrapper .title-element,
+#af-wrapper #forum-navigation a,
+#af-wrapper #forum-navigation-mobile a {
+border-color: #329a2c !important;
+}
+#af-wrapper .button-normal:hover,
+#af-wrapper #profile-navigation a.active {
+background-color: #329a2c !important;
+}
+#af-wrapper .button-neutral:hover {
+background-color: #329a2cB0 !important;
+}
+#af-wrapper,
+#af-wrapper #forum-breadcrumbs a:hover,
+#af-wrapper .main-title {
+color: #383b3d !important;
+}
+#af-wrapper .main-title:before,
+#af-wrapper .editor-row-uploads .upload-hints,
+#af-wrapper .forum-stats,
+#af-wrapper .topic-stats,
+#af-wrapper .action-panel-description,
+#af-wrapper #forum-breadcrumbs,
+#af-wrapper #forum-breadcrumbs a,
+#af-wrapper .forum-post-date,
+#af-wrapper .forum-post-date a,
+#af-wrapper .post-footer,
+#af-wrapper .post-footer a,
+#af-wrapper .signature,
+#af-wrapper span.mention-nice-name,
+#af-wrapper .post-reactions .reaction,
+#af-wrapper #poll-results .poll-result-numbers,
+#af-wrapper #poll-results .poll-result-total,
+#af-wrapper #poll-warning,
+#af-wrapper .topic-icon:before,
+#af-wrapper .report-link,
+#af-wrapper .report-content:before,
+#af-wrapper input::placeholder,
+#af-wrapper .activity-time,
+#af-wrapper .unread-time {
+color: #828282 !important;
+}
+#af-wrapper .content-container,
+#af-wrapper .report-element,
+#af-wrapper #statistics,
+#af-wrapper .post-wrapper,
+#af-wrapper #profile-header .background-contrast,
+#af-wrapper #poll-results .poll-result-bar,
+#af-wrapper #memberslist-filter {
+background-color: #fafafa !important;
+}
+#af-wrapper .read {
+color: #383b3d !important;
+}
+#af-wrapper #read-unread .read {
+background-color: #383b3d !important;
+}
+#af-wrapper .unread {
+color: #00cd23 !important;
+}
+#af-wrapper #read-unread .unread {
+background-color: #00cd23 !important;
+}
+#af-wrapper {
+font-family: N27 Regular !important;
+}
+#af-wrapper {
+font-size: 16px !important;
+}
