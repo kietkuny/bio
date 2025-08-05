@@ -1140,7 +1140,7 @@ font-family: "N27 Bold", Sans-serif;
 } .site-footer {
 position: relative;
 width: 100vw;
-height: 700px;
+height: 500px;
 background: var(--greenGradient);
 overflow: hidden;
 display: flex;
